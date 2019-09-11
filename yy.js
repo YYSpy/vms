@@ -1,2 +1,3 @@
 <script>
-</script>
+  ddd
+< / script>
